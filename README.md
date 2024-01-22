@@ -1,3 +1,5 @@
+This React Price Card Showcase is a web application designed to display and highlight different pricing options in a visually appealing and user-friendly manner. The project leverages the React library to create dynamic and interactive price cards, making it easy for users to compare various plans or packages offered by a service or product.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
