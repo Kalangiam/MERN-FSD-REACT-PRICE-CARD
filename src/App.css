@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  margin-top: 100px;
+  padding-top: 35px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  background-color: #437ee9;
+    background-image: 
+        radial-gradient(at 47% 33%, hsl(208.92, 79%, 59%) 0, transparent 59%), 
+        radial-gradient(at 82% 65%, hsl(217.50, 98%, 41%) 0, transparent 55%);
+}
+
+.button{
+  width :100%;
+  padding: 10px 10px;
+  border-radius: 20px;
+  color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
+
+.button1{
+  background-color:rgb(26, 95, 223);
+  border-color: rgb(26, 95, 223) ;
+   
+  width :100%;
+  padding: 10px 10px;
+  border-radius: 20px;
+  color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2{
+  background-color:rgb(108, 149, 223);
+  width :100%;
+  padding: 10px 10px;
+  border-color: rgb(108, 149, 223);;
+  border-radius: 20px;
+  color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+  padding: 10px;
+}
+
+.card{
+  padding: 10px;
+  border-radius: 20px;
+}
+.card-header{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.title{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 50px;
+  color: rgb(16, 54, 178);
+}
